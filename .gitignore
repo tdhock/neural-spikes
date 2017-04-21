@@ -1,0 +1,7 @@
+*~
+.Rhistory
+*.pdf
+*.zip
+spikefinder.train
+crcns-mt1-data
+*.png

@@ -1,3 +1,8 @@
+** TODOs
+
+Does mt1 data https://crcns.org/data-sets/vc/mt-1 have raw data or
+just inferred spike locations?
+
 ** 21 April 2017
 
 Downloaded spikefinder data from

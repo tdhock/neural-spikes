@@ -5,3 +5,6 @@
 spikefinder.train
 crcns-mt1-data
 *.png
+library
+*.mat
+*.html
